@@ -1,0 +1,26 @@
+{
+  "name": "sz-rc-protocol",
+  "version": "0.1.0",
+  "description": "message protocol for remote-control service",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://npm.sazze.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.sazze.com/ops/rc-protocol.git"
+  },
+  "keywords": [
+    "remote",
+    "control",
+    "protocol"
+  ],
+  "author": "Craig Thayer <cthayer@sazze.com>",
+  "license": "2015 Sazze, Inc.  All rights reserved.",
+  "dependencies": {
+    "lodash": "^3.8.0"
+  }
+}
