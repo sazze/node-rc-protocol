@@ -5,5 +5,6 @@
 
 module.exports = {
   Message: require('./lib/message'),
-  Response: require('./lib/response')
+  Response: require('./lib/response'),
+  Auth: require('./lib/auth')
 };

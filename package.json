@@ -1,6 +1,6 @@
 {
   "name": "sz-rc-protocol",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "message protocol for remote-control service",
   "main": "index.js",
   "publishConfig": {
@@ -21,6 +21,7 @@
   "author": "Craig Thayer <cthayer@sazze.com>",
   "license": "2015 Sazze, Inc.  All rights reserved.",
   "dependencies": {
-    "lodash": "^3.8.0"
+    "lodash": "^3.8.0",
+    "moment": "^2.10.3"
   }
 }
