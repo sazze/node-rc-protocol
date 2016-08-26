@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": ">=0.10.x"
+  },
   "repository": {
     "type": "git",
     "url": "http://github.com/sazze/node-rc-protocol.git"
@@ -15,6 +18,9 @@
     "control",
     "protocol"
   ],
+  "bugs": {
+    "url": "https://github.com/sazze/node-rc-protocol/issues"
+  },
   "author": "Craig Thayer <cthayer@sazze.com>",
   "license": "ISC",
   "dependencies": {
